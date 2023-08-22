@@ -144,7 +144,7 @@
   }
   .content .launch-time {
     text-align: center;
-    font-size: 15px;
+    font-size: 19px;
   }
 }
 
@@ -154,17 +154,18 @@
     font-size: 20%;
   }
   .container {
-    font-size: 18px;
+    font-size: 15px;
   }
   .waifu {
     display: none;
   }
   .content h1 {
-    font-size: 50px;
+    font-size: 35px;
+    
   }
   .content .launch-time {
     text-align: center;
-    font-size: 15px;
+    font-size: 13px;
   }
 }
 
