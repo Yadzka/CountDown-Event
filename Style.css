@@ -167,6 +167,18 @@
     text-align: center;
     font-size: 13px;
   }
+  #days {
+    font-size: 55px;
+  }
+  #hours {
+    font-size: 55px;
+  }
+  #minutes {
+    font-size: 55px;
+  }
+  #seconds {
+    font-size: 55px;
+  }
 }
 
 .container .waifu {
