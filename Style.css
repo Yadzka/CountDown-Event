@@ -138,6 +138,7 @@
   }
   .waifu {
     display: none;
+    justify-content: center;
   }
   .content h1 {
     font-size: 60px;
